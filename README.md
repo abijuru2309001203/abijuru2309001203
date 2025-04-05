@@ -1,4 +1,4 @@
-## Hi there 👋
+class work internet programming
 
 <!--
 **abijuru2309001203/abijuru2309001203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
